@@ -1,0 +1,12 @@
+# Ignore compiled Java binary classes
+*.class
+
+# Ignore development workspace settings files
+.project
+.classpath
+.settings/
+.vscode/
+
+# Ignore personal system files
+Thumbs.db
+.DS_Store
